@@ -74,7 +74,7 @@ Google-Play-Store-EDA/
 ## ▶️ How to Run the Project
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/google-play-store-eda.git
+https://github.com/RahulMaheshwari12/Google-Play-Store-EDA.git
 ```
 2. Navigate to the project directory
 3. Open the notebook:
@@ -96,8 +96,7 @@ jupyter notebook Google_playstore.ipynb
 **Rahul Maheshwari**  
 Aspiring Data Scientist | Python | Data Analysis
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-linkedin-username  
-🔗 GitHub: https://github.com/your-username
+🔗 GitHub: https://github.com/RahulMaheshwari12
 
 ---
 
